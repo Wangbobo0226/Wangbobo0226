@@ -13,42 +13,6 @@
   <a href="https://github.com/Wangbobo0226"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Wangbobo0226-0B1220?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-## About Me
 
-As a CSIE student at NDU, I build practical systems at the intersection of cybersecurity, artificial intelligence, and reliable software.
 
-My work combines cyber defense research with a builder mindset: analyze vulnerabilities, secure the system, and deploy what actually works.
-
-## Current Focus
-
-| Area | What I am exploring |
-| --- | --- |
-| **Cybersecurity** | Monitoring network protocols, deploying EDR tools, configuring firewalls, and establishing active defense workflows. |
-| **Applied AI** | Integrating machine learning classifiers (like Random Forest and Logistic Regression) into lightweight, practical detection systems. |
-| **Web Development** | Designing interactive digital platforms, database connections, and full-stack utilities tailored for operational training. |
-
-## Featured Work
-
-| Project | Focus | Why it matters |
-| --- | --- | --- |
-| [**Project One**](https://github.com/Wangbobo0226/project-one) | Primary project focus | A concise explanation of what the project does and why it matters. |
-
-## Research Direction
-
-I am interested in building observable security systems that monitor network states, execute targeted defense playbooks, and provide clear threat evidence under human-in-the-loop oversight.
-
-## Tech Stack
-
-`TypeScript` · `Next.js` · `Python` · `PostgreSQL` · `Playwright`
-
-## Recent Activity
-
-<!-- AUTO:ACTIVITY:START -->
-_Recent public activity will appear here after the workflow runs._
-<!-- AUTO:ACTIVITY:END -->
-
----
-
-<p align="center">
-  Building thoughtful systems and sharing what works.
 </p>
