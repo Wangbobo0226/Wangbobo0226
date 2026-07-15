@@ -5,7 +5,7 @@
     <source media="(max-width: 760px)" srcset="./assets/hero/agent-console-8f8deb20-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-8f8deb20-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-8f8deb20-light.svg">
-    <img src="./assets/hero/agent-console-8f8deb20-dark.svg" alt="Your Name - AI Engineer & Product Builder" width="100%">
+    <img src="./assets/hero/agent-console-8f8deb20-dark.svg" alt="Wangbobo0226 - Cybersecurity & Software Engineer" width="100%">
   </picture>
 </p>
 
@@ -15,32 +15,17 @@
 
 ## About Me
 
-I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.
+I am a student at the National Defense University, Department of Computer Science and Information Engineering (CSIE), focusing on cyber defense, system monitoring, and application development.
 
-My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works.
-
-## Current Focus
-
-| Area | What I am exploring |
-| --- | --- |
-| **AI Agents** | Autonomous workflows, tool use, evaluation, and reliable agent behavior. |
-| **Applied AI** | Turning model capabilities into useful and testable software systems. |
-| **Developer Tools** | Better workflows for building, testing, and operating modern software. |
-
-## Featured Work
-
-| Project | Focus | Why it matters |
-| --- | --- | --- |
-| [**Project One**](https://github.com/Wangbobo0226/project-one) | Primary project focus | A concise explanation of what the project does and why it matters. |
-| [**Project Two**](https://github.com/Wangbobo0226/project-two) | Secondary project focus | A second project that supports the professional direction of this profile. |
+My work combines technical exploration with a builder mindset: understand the vulnerability, secure the system, and build practical tools that actually works.
 
 ## Research Direction
 
-I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight.
+I am interested in systems that can observe state, analyze network traffic, leverage intelligent modeling to identify threats, and automatically apply security policies with human-in-the-loop oversight.
 
 ## Tech Stack
 
-`TypeScript` · `Next.js` · `Python` · `PostgreSQL` · `Playwright`
+`Python` · `JavaScript` · `Flask` · `Splunk` · `TCP/IP` · `Firewall & EDR`
 
 ## Recent Activity
 
